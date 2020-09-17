@@ -7,23 +7,22 @@ flicker: true
 headshot: /images/headshot.jpg
 ---
 
-I am a Software Engineering student at [RMIT University](https://www.rmit.edu.au/) in Melbourne. Starting November 2016 I will be interning with [Zendesk](https://www.zendesk.com/) in a Data Engineering role.
-
-I'm currently doing a lot of work building developer communities around my University. I'll chase any opportunity to improve collaboration and outreach in the tech. industry.
-
-My main areas of interest are in NLP, Agent-Oriented Programming, and Computational Dialectics.
+## 학력
+2011.03 ~ 2014.02 정발고등학교
+2014.03 ~ 2020.08 연세대학교 정보산업공학
 
 {% if site.show_talks_section %}
 ## Talks
 
-- Put something here!
-{% endif %}
+개발에 흥미가 생겨 조금씩 공부하고 있는 Junior 개발자 입니다.
 
+{% endif %}
+<!-- 
 {% if site.show_workshops_section %}
 ## Workshops
 
 - Put something here!
-{% endif %}
+{% endif %} -->
 
 
 <style>
