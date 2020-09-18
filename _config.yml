@@ -34,13 +34,13 @@ enable_anchorjs: false
 ## Optional site sections           ##
 ######################################
 show_talks_section:     true
-show_workshops_section: true
+show_workshops_section: false
 
 ######################################
 ## Disqus post comments             ##
 ## (leave blank to disable Disqus)  ##
 ######################################
-disqus_shortname: 
+disqus_shortname: 'missu-Blog'
 
 ##########################################################################
 ## Facebook Comments plugin                                             ##
